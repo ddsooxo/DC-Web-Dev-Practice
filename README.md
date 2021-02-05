@@ -1,9 +1,10 @@
 # DC-Web-Dev-Practice
 *practice of web dev exercises: html, css,javascript, etc*
-<hr>
 ### Personal roadmap to follow: 
+<hr>
+
 📌 HTML
-- Simple portfolio
+- Simple Portfolio
 
 📌 CSS
 - Portfolio with styling
