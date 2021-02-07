@@ -1,5 +1,5 @@
 html{
-    background-color: beige);
+    background-color: beige;
     color: rgb(0, 153, 255);
     font-family: 'Scope One', serif;
 }
@@ -36,7 +36,7 @@ a.nav-buttons{
     background-color: bisque;
     border-radius: 150px;
     text-decoration: none;
-    color: rgb(85, 76, 207);
+    color: rgb(104, 67, 20);
     padding: 20px;
 }
 
