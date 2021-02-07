@@ -1,68 +1,67 @@
-html{
-    background-color: beige;
-    color: rgb(0, 153, 255);
-    font-family: 'Scope One', serif;
+html {
+  background-color: beige;
+  color: rgb(0, 153, 255);
+  font-family: "Scope One", serif;
+  /* background-image: url(https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80); */
 }
 
-div{
-    font-weight: 600;
+div {
+  font-weight: 600;
 }
 
-hr{
-    width: 50em;
-    padding-top:
+hr {
+  width: 50em;
+  /* padding-top: */
 }
 
-h1{
-    font-weight: bolder;
-    text-transform: uppercase;
-    text-decoration: dashed;
+h1 {
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-decoration: dashed;
 }
 
-h4{
-    color: rgb(121, 98, 98);
+h4 {
+  color: rgb(121, 98, 98);
 }
-body{
-    color: rgb(83, 110, 190);
-}
-
-.nav-links{
-    text-decoration: none;
-    text-align: center;
-    padding: 20px;
+body {
+  color: rgb(83, 110, 190);
 }
 
-a.nav-buttons{
-    background-color: bisque;
-    border-radius: 150px;
-    text-decoration: none;
-    color: rgb(104, 67, 20);
-    padding: 20px;
+.nav-links {
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
 }
 
-
-a{
-     text-decoration: none;
+a.nav-buttons {
+  background-color: bisque;
+  border-radius: 150px;
+  text-decoration: none;
+  color: rgb(104, 67, 20);
+  padding: 20px;
 }
 
-a:hover{
-    color: orange;
+a {
+  text-decoration: none;
 }
 
-
-body{
-    text-align: center;
+a:hover {
+  color: orange;
 }
 
-img{
-    border-radius: 12em;
-    width: 45em;
-    height: auto;
-    opacity: 50%;
+body {
+  text-align: center;
 }
 
-footer{
-    text-align: center;
-    padding: 20px;
-    color:grey;
+img {
+  border-radius: 12em;
+  width: 45em;
+  height: auto;
+  opacity: 50%;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: grey;
 }
