@@ -34,10 +34,10 @@ body {
 }
 
 a.nav-buttons {
-  background-color: bisque;
-  border-radius: 150px;
+  background-color: rgb(95, 118, 219);
+  border-radius: 200px;
   text-decoration: none;
-  color: rgb(104, 67, 20);
+  color: rgb(216, 208, 198);
   padding: 20px;
 }
 
