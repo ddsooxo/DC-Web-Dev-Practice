@@ -4,17 +4,17 @@
 <hr>
 
 📌 HTML
-- Simple Portfolio [x]
+- Simple Portfolio ✓
 
 📌 CSS
-- Portfolio with styling [ ]
-- Parallax Website [ ] 
+- Portfolio with styling
+- Parallax Website
 
 📌 CSS framework
-- Landing page [ ] 
-- Survey forms [ ] 
+- Landing page 
+- Survey forms 
 
 📌 JavaScript
-- Clock [ ] 
-- Navigation bar [ ] 
-- TO-DO app [ ] 
+- Clock 
+- Navigation bar 
+- TO-DO app
