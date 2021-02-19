@@ -4,7 +4,7 @@
 <hr>
 
 📌 HTML
-- Simple Portfolio
+- Simple Portfolio [x]
 
 📌 CSS
 - Portfolio with styling
