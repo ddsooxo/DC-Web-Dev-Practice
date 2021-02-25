@@ -1,5 +1,5 @@
 # DC-Web-Dev-Practice
-*practice of web dev exercises: html, css,javascript, etc*
+*Web Development Practices: html, css,javascript, etc*
 ### Personal roadmap to follow: 
 <hr>
 
