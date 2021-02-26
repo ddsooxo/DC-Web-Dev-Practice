@@ -13,7 +13,7 @@ _Web Development Practices: html, css,javascript, etc_
 📌 CSS
 
 - Portfolio with basic styling ✓
-- Portfolio with complex styling ✓
+- Portfolio with complex styling
 - Parallax Website
 
 📌 CSS framework
