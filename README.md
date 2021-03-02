@@ -2,6 +2,14 @@
 
 _Web Development Practices: html, css,javascript, etc_
 
+### Topics Covered:
+(from _FreeCodeCamp_)
+- HTML
+- Basic CSS
+- Applied Visuals
+- JavaScript
+
+
 ### Personal roadmap to follow:
 
 <hr>
