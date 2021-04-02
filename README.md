@@ -2,7 +2,7 @@
 
 _Web Development Practices: html, css,javascript, etc_
 
-### Topics Covered:
+### Topics:
 (from _FreeCodeCamp_)
 - HTML
 - Basic CSS
